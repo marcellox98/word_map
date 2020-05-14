@@ -1,6 +1,5 @@
 # Word map
-![Image of World]
-(https://raw.githubusercontent.com/marcellox98/word_map/master/word_image.jpg)
+![Image of World](https://raw.githubusercontent.com/marcellox98/word_map/master/word_image.jpg)
 
 ## Usage
 Download the map on github and run:
