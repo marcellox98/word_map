@@ -8,9 +8,6 @@ from PIL import ImageTk
 
 selectedCountryId = 'NL'
 
-# sinshonwe
-
-
 useMap = "worldMap.geojson"
 
 
